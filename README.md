@@ -7,6 +7,7 @@ If you dont have python and your lazy to download it, you can run the .exe file
 
 # Credits
 Credits to rya and ZayDev (Wizz1337)
+https://github.com/Wizz1337/TikTokMassBotting
 
 # Preview
 ![image](https://cdn.discordapp.com/attachments/938247228609409087/967511362647511090/unknown.png)
