@@ -9,7 +9,7 @@ in order to use TikShare, you have to run install.bat then run the main python f
 If you dont have python and your lazy to download it, you can run the .exe file
 
 # Credits
-Credits to rya and ZayDev (Wizz1337)
+Credits to Dextoriy, rya , ZayDev (Wizz1337)
 https://github.com/Wizz1337/TikTokMassBotting
 
 # Preview
