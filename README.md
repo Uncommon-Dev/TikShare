@@ -1,9 +1,6 @@
 # TikShare
 Cool and simple python GUI to mass share a tiktok video (like a share bot basically)
 
-# Issue
-If your link doesnt work, it means its vm.tiktok or vt.tiktok. Get your web base link exemple : "https://tiktok.com/@user/id"
-
 # Install
 in order to use TikShare, you have to run install.bat then run the main python file
 If you dont have python and your lazy to download it, you can run the .exe file
