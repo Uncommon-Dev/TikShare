@@ -1,3 +1,6 @@
+# PATCHED
+Warning, the current api is patched.. If you find a working api, dm vesper#0003 ;)
+
 # TikShare
 Cool and simple python GUI to mass share a tiktok video (like a share bot basically)
 
